@@ -1,4 +1,4 @@
-package com.bridgelabz.builderPattern;
+package com.bridgelabz.builderDesignPattern;
 
 public class User {
 

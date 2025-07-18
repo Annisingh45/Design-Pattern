@@ -1,8 +1,8 @@
 package com.bridgelabz.observorDesignPattern;
 
-public interface Subject {
-    void subscribe(Observer ob);
-    void unSubscribe(Observer ob);
+interface YouTube {
+    void subscribe(Subscriber ob);
+    void unSubscribe(Subscriber ob);
     void notifyChange();
 
 }

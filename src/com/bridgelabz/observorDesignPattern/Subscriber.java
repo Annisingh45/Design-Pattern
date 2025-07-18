@@ -1,5 +1,5 @@
 package com.bridgelabz.observorDesignPattern;
 
-public interface Observer {
+public interface Subscriber {
     void notified();
 }
